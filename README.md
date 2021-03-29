@@ -1,8 +1,8 @@
 ### Policy Updates for stochastic search
 
 This repository contains several implementations of popular algorithms. 
-However, they are written for stochastic search to show there true performance on optimization tasks. 
-It is not the greatest code, but tries to put everything you need in one file to make it better understandable. 
+However, they are written for stochastic search to show their true performance on optimization tasks. 
+It is not written in a large framework, but tries to put everything you need in one file to make it better understandable. 
 
 ## Installation
 See the requirements.txt, but be warned it might install some other things, because I just copied my testing env. 
