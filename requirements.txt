@@ -73,7 +73,7 @@ pandocfilters==1.4.2
 parso==0.5.2
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==8.1.1
+Pillow==8.2.0
 pkg-resources==0.0.0
 progressbar2==3.50.1
 prometheus-client==0.7.1
